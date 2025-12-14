@@ -6,7 +6,7 @@ color_schemes:
         linewidth: 1.2
       trunk:
         color: '#d5d5d5'
-        linewidth: 1.2
+        linewidth: 1.0
       primary:
         color: '#ededed'
         linewidth: 0.9

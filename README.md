@@ -57,12 +57,6 @@ A Python-based tool for generating customized, visually appealing maps of cities
 
 4. The generated map will be saved in the `Outputs` directory, with a filename based on the city name and selected color scheme (e.g., `New_York_red_gold_StyledMap.png`).
 
-## Example
-
-Here a few example outputs:
-
-![Examples](Outputs/artistic_road_maps.png)
-
 ## Color Schemes
 
 The project includes multiple pre-configured color schemes for roads, water, and backgrounds. Below are a few examples:
@@ -74,6 +68,12 @@ The project includes multiple pre-configured color schemes for roads, water, and
 5. **Midnight-Teal**: Cool and modern teal-based theme.
 
 You can define your custom color schemes in `config.yml`.
+
+## Example
+
+Here a few example outputs:
+
+![Examples](Outputs/artistic_road_maps.png)
 
 ## Environment Setup
 
