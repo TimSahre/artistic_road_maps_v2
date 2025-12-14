@@ -1,0 +1,16 @@
+# generated data
+Outputs/
+cache/
+old_outputs/
+
+# python
+__pycache__/
+*.pyc
+
+# conda
+.env/
+.envs/
+
+# IDE / OS
+.vscode/
+.DS_Store
