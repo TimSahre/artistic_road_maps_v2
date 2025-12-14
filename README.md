@@ -61,7 +61,7 @@ A Python-based tool for generating customized, visually appealing maps of cities
 
 Here a few example outputs:
 
-![New York City Map](Outputs/New_York_red_gold_StyledMap.png)
+![Examples](Outputs/New_York_red_gold_StyledMap.png)
 
 ## Color Schemes
 
