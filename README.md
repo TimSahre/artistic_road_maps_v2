@@ -59,7 +59,7 @@ A Python-based tool for generating customized, visually appealing maps of cities
 
 ## Example
 
-Here is an example output for **New York City** using the `red_gold` color scheme:
+Here a few example outputs:
 
 ![New York City Map](Outputs/New_York_red_gold_StyledMap.png)
 
@@ -91,3 +91,4 @@ This project uses the following libraries:
 - **NetworkX**: For processing graph-based data.
 - **Matplotlib**: For map rendering and visualization.
 - **PyYAML**: For configuration management.
+
