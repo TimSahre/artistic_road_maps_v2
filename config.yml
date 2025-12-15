@@ -408,10 +408,10 @@ color_schemes:
     roads:
       motorway:
         color: '#d5d5d5'
-        linewidth: 2.2
+        linewidth: 1.8
       trunk:
         color: '#d5d5d5'
-        linewidth: 1.8
+        linewidth: 1.6
       primary:
         color: '#ededed'
         linewidth: 1.4

@@ -11,8 +11,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # Configuration parameters
 config = {
-    "place_name": "Berlin",  # Type in name of city
-    "color_scheme": "default",  # Available: "default", "dark", "pink", "green", "blue", "yellow", "violet", "red_gold", "midnight_teal", "ice_fire", "solar_flare", "emerald_glow", "copper_twilight", "nebula_dream", "neon_pink", "default_thinned", "default_hierarchized"
+    "place_name": "Seesen",  # Type in name of city
+    "color_scheme": "green",  # Available: "default", "dark", "pink", "green", "blue", "yellow", "violet", "red_gold", "midnight_teal", "ice_fire", "solar_flare", "emerald_glow", "copper_twilight", "nebula_dream", "neon_pink", "default_thinned", "default_hierarchized"
     "config_file": "config.yml",  # Path to configuration file
     "font_path": "Protest_Revolution/ProtestRevolution-Regular.ttf",  # Custom font file path
     "custom_text_color": ""  # Custom text color (e.g., white). Leave empty to use the default color.

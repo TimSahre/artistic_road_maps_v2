@@ -69,6 +69,8 @@ The project includes multiple pre-configured color schemes for roads, water, and
 
 You can define your custom color schemes in `config.yml`.
 
+![Examples](Outputs/artistic_road_maps_2.jpg)
+
 ## Example
 
 Here a few example outputs:
